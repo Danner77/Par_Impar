@@ -10,4 +10,4 @@ si n: % 2 = 0 se determina  de que es impar
 ### output
 respuesta 
 # Diseño 
-![Digrama de flujo](diagrama.png "diagrama de flujo")
+![Digrama de flujo](Diagrama.png "diagrama de flujo") 
